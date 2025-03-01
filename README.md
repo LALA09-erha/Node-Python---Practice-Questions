@@ -95,7 +95,7 @@ Content-Type: application/json
 
 ### Langkah-langkah:
 
-1. Buka file `findNumber.py` di editor Python atau di [IDE PYTHON ONLINE](https://pythonsandbox.com/)
+1. Buka file `findNumber.py` di editor Python atau di [IDE PYTHON ONLINE](https://edube.org/sandbox)
 2. Jalankan script dengan perintah:
    ```sh
    python findNumber.py
@@ -106,7 +106,7 @@ Content-Type: application/json
 
 ### Langkah-langkah:
 
-1. Buka file `hitungAngka.py` di editor Python atau di [IDE PYTHON ONLINE](https://pythonsandbox.com/)
+1. Buka file `hitungAngka.py` di editor Python atau di [IDE PYTHON ONLINE](https://edube.org/sandbox)
 2. Jalankan script dengan perintah:
    ```sh
    python hitungAngka.py
